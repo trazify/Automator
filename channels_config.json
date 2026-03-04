@@ -1,0 +1,31 @@
+{
+    "channels": [
+        {
+            "name": "cute_memes",
+            "display_name": "Cute Memes & Cats",
+            "queue_folder": "queue/cute_memes",
+            "archive_folder": "archive/cute_memes",
+            "token_file": "tokens/token_cute_memes.pickle",
+            "schedule_time": "10:00",
+            "niche": "cute_memes"
+        },
+        {
+            "name": "anime_edits",
+            "display_name": "Anime Edit Shorts",
+            "queue_folder": "queue/anime_edits",
+            "archive_folder": "archive/anime_edits",
+            "token_file": "tokens/token_anime.pickle",
+            "schedule_time": "14:00",
+            "niche": "anime_edits"
+        },
+        {
+            "name": "memes",
+            "display_name": "Meme Shorts",
+            "queue_folder": "queue/luxury",
+            "archive_folder": "archive/memes",
+            "token_file": "tokens/token_memes.pickle",
+            "schedule_time": "20:00",
+            "niche": "memes"
+        }
+    ]
+}
